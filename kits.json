@@ -1986,7 +1986,7 @@
         "Amount": 1
       }
     ],
-    "Cooldown": 7000,
+    "Cooldown": 25200,
     "Cost": 0.0,
     "ResetCooldownWhenDie": false
   },
@@ -2142,7 +2142,7 @@
         "Amount": 1
       }
     ],
-    "Cooldown": 6500,
+    "Cooldown": 25200,
     "Cost": 0.0,
     "ResetCooldownWhenDie": false
   },
